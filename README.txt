@@ -1,17 +1,18 @@
 RailsRemoteControl by Eric Hodel <drbrain@segment7.net>
 
-http://dev.robotcoop.com/Tools/RailsRemoteControl
+http://seattlerb.rubyforge.org/RailsRemoteControl
 
 == DESCRIPTION:
-  
+
 Rails Remote Control allows you to attach to running Rails processes
-and tweak them out.
+using DRb and change the log level without restarts.  Also, view
+actions handled per process.
 
 == FEATURES/PROBLEMS:
-  
-* Control process log level without restarts
+
 * Monitor processes
-* Logs actions handled and count per
+* Control process log level without restarts
+* Logs actions handled and count per process
 
 == SYNOPSYS:
 

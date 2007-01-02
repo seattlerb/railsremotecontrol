@@ -1,6 +1,7 @@
-== 1.0.0 / 2006-10-20
+= 1.0.0 / 2007-01-02
 
-* 2 major enhancement
-  * Birthday!
-  * Control Rails processes
+* Birthday!
+* Monitor processes
+* Control process log level without restarts
+* Logs actions handled and count per process
 
