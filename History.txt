@@ -1,0 +1,6 @@
+== 1.0.0 / 2006-10-20
+
+* 2 major enhancement
+  * Birthday!
+  * Control Rails processes
+

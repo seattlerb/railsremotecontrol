@@ -1,0 +1,6 @@
+#!/usr/local/bin/ruby -w
+
+require 'rails_remote_control/http_server'
+
+RailsRemoteControl::HTTPServer.run
+
