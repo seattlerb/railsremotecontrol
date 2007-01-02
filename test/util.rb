@@ -27,6 +27,10 @@ class RingyDingy::RingServer
     @default = default
   end
 
+  class << self
+    remove_method :list_services
+  end
+
   def self.list_services
     @default
   end
